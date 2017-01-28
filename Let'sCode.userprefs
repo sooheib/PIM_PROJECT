@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Drop2.cs">
+    <Files>
+      <File FileName="Assets\Script\Fee.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Drop.cs" Line="47" Column="3" />
+      <File FileName="Assets\Script\Instantiate1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Drop2.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
